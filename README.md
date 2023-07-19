@@ -2,25 +2,14 @@
 
 <div align="center">
 	<h2>🔥 Interest 🔥</h2>
-	<p><i>What I'm passionate about</i></p>
 </div>
 <div align="center">
-<strong>💻 BackEnd</strong> <br>
-.Net (C#)<br>
-Java<br>
+<strong>💻 BackEnd: </strong>.Net (C#), Java
 <br>
-<strong>🧱 Database</strong> <br>
-SQL (C#)<br>
-MySQL<br>
+<strong>🧱 Database: </strong>SQL (C#), MySQL
 <br>
-<strong>🔎 FrontEnd<br></strong>
-ReactJs<br>
-VueJs<br>
-Angular<br>
-
+<strong>🔎 FrontEnd: </strong>ReactJs, VueJs, Angular
 </div>
-<br>
-<br>
 <br>
 <div align="center">
 <h2>💥 Skills 💥</h2>
